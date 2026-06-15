@@ -1,0 +1,21 @@
+{
+    "name": "RelicHaul.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8866cfaa6b3fa4bb4b2721f8af188c",
+        "GUID:1028f38d0ec89374ab3763855f56716e",
+        "GUID:be0534caf40c56c47a1e424698d86ac6",
+        "GUID:eec0964c48f6f4e40bc3ec2257ccf8c5",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

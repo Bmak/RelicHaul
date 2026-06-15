@@ -1,0 +1,20 @@
+{
+    "name": "RelicHaul.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8866cfaa6b3fa4bb4b2721f8af188c",
+        "GUID:1028f38d0ec89374ab3763855f56716e",
+        "GUID:15fc0a57446b3144c949da3e2b9737a9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
