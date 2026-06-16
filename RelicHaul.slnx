@@ -1,3 +1,7 @@
 ﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="RelicHaul.Core.csproj" />
+  <Project Path="RelicHaul.UI.csproj" />
+  <Project Path="RelicHaul.Gameplay.csproj" />
+  <Project Path="RelicHaul.Network.csproj" />
 </Solution>
